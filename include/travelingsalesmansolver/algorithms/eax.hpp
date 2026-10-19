@@ -3,6 +3,7 @@
 #include "travelingsalesmansolver/algorithm_formatter.hpp"
 
 #include <random>
+#include <iomanip>
 
 namespace travelingsalesmansolver
 {

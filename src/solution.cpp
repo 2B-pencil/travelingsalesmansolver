@@ -1,6 +1,7 @@
 #include "travelingsalesmansolver/solution.hpp"
 
 #include "travelingsalesmansolver/solution_builder.hpp"
+#include <iomanip>
 
 using namespace travelingsalesmansolver;
 

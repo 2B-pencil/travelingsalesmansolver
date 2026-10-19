@@ -8,6 +8,7 @@
 
 #include <numeric>
 #include <random>
+#include <iomanip>
 
 namespace travelingsalesmansolver
 {
